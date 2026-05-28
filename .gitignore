@@ -1,0 +1,5 @@
+.agent/logs/
+test_0528/
+test_05282/
+node_modules/
+.DS_Store
